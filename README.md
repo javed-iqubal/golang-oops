@@ -1,1 +1,2 @@
-# golang-oops
+# Golang OOPs
+### Structure
